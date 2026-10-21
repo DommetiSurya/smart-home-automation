@@ -1,12 +1,21 @@
 
 # Smart Home Automation Firmware
 
-This folder contains the source code for the Smart Home Automation project.
+This folder contains the Arduino source code for the Smart Home Automation project.
 
 ## Source Code
 
-The main Arduino program will be stored in this folder.
+- [`smart-home-automation.ino`](smart-home-automation.ino) — main Arduino program.
 
-## Usage
+## How to Use
 
-Open the source file in the appropriate development environment, verify the board and pin assignments, and compile the code before uploading it to the hardware.
+1. Download `smart-home-automation.ino`.
+2. Open it in the Arduino IDE.
+3. Select the correct board and communication port.
+4. Verify that the pin assignments match the circuit diagram.
+5. Compile the program and upload it to the controller.
+
+## Hardware
+
+Refer to the [circuit diagram](../hardware/circuit-diagram.png) for the circuit design.
+
