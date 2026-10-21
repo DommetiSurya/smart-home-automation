@@ -38,3 +38,12 @@ Update this list to match your actual design:
 - `hardware/` — circuit image and design documentation
 - `firmware/` — Arduino source code
 - `README.md` — project overview
+
+## Physical Prototype
+
+### Complete Hardware
+![Smart Home Automation Prototype](images/smart-home-prototype.jpg)
+
+### Hardware Connections
+![Hardware Connections](images/hardware-connections.jpg)
+
